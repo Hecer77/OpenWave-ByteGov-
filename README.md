@@ -41,9 +41,3 @@ Bu layihə MIT Lisenziyası altında qorunur.
 
 ---
 Daha ağıllı və rəqəmsal şəhərlər üçün 💻 və ☕ ilə hazırlandı
-
-## 📄 Lisenziya
-Bu layihə MIT Lisenziyası altında qorunur.
-
----
-Daha ağıllı və rəqəmsal şəhərlər üçün 💻 və ☕ ilə hazırlandı.
